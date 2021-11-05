@@ -4,3 +4,4 @@ function loop() {
     console.log(i + " is " + array[i]);
   }
 }
+loop();
