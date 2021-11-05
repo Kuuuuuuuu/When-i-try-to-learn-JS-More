@@ -1,4 +1,4 @@
-funciton Queue() {
+funciton shift() {
  var Queue = [];
  Queue.push(1);
  Queue.push(2);
