@@ -5,6 +5,6 @@ function sumAsync(x, y) {
     return promise;
 }
 
-sumAsync(5, 7).then((hmm) => {
+sumAsync(8, 2).then((hmm) => {
     console.log(hmm);
 });
